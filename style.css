@@ -1,0 +1,16 @@
+/* Properties which are inherited by the child element*/
+body{
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+  font-variant: small-caps;
+  font-size: large;
+  line-height:2;
+}
+
+
+/* Properties which are not inherited by the child element */
+body{
+  background-color: rgb(56, 253, 7);
+  border:1px solid red;
+  padding: 50px;
+}
